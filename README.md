@@ -2,4 +2,4 @@
 #Name: Cesar Giner
 #email: cog998@umsystem.edu
 
-Instructioms: Working code in file Assignment2.cpp
+Instructions: Working code in file Assignment2.cpp
